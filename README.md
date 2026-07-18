@@ -16,7 +16,8 @@ hiring trends across industries, seniority levels, and employment types.
 - DAX (calculated columns, date table)
 
 ## 📸 Dashboard Preview
-(LinkedIn_Job_Market_Analysis_Dashboard.png)<img width="1057" height="570" alt="image" src="https://github.com/user-attachments/assets/770829c2-274d-4d79-a4aa-04ad6454af72" />
+(LinkedIn_Job_Market_Analysis_Dashboard.png)<img width="934" height="526" alt="image" src="https://github.com/user-attachments/assets/695f402f-893b-4f05-8d42-aa1a6c50156a" />
+
 
 
 ## 📁 Files
